@@ -1,0 +1,21 @@
+
+img{
+    width: 250px;
+    height: 300px;
+}
+.parent{
+    box-sizing: border-box;
+    display:inline-flex;
+    background-color: gray;
+    height: 500px;
+}
+.one{
+    background-color: white;
+    margin-left: 20px;
+    margin-top: 20px;
+    margin-right: 20px;
+    padding: 20px;
+    width:250px;
+    height: 400px;
+    line-height: 80%;
+}
